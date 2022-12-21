@@ -1,0 +1,38 @@
+/*
+.backgroundOne{
+    position: absolute;
+    width: 1920px;
+    height: 950px;
+}
+*/
+header .header nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 25px;
+    color: white;
+}
+header .header .logo {
+    width: 216px;
+    height: 52px;
+}
+header .header .logo img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    object-position: center;
+}
+
+header .header .one{
+    position: relative;
+    width: 321px;
+    height: 21px;
+    left: 421px;
+    top: 34px;
+}
+header .header .two{
+    
+}
+
+
